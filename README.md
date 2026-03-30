@@ -30,68 +30,45 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=header"/>
 
 ### 🛒 AI-Based E-Commerce Recommendation System  
-✔ Improved product recommendations by **25% using ML algorithms**  
-✔ Built full-stack app with **React & Node.js**  
-✔ Implemented **data pipelines using Python & Pandas**
+🚀 Improved product recommendations by **25% using Machine Learning**  
+💻 Developed a **full-stack web application (React + Node.js)**  
+⚙️ Built **data pipelines using Python & Pandas**
 
-🛠️ **Tech Stack:**  
-`React` `Node.js` `JavaScript` `Python` `Machine Learning`  
+🛠️ Tech Stack:  
+`React` `Node.js` `JavaScript` `Python` `Machine Learning`
 
-👉 <a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
-<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
-</a>
+🔗 [View Project](https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System)
 
-</td>
-
-<td width="50%">
+---
 
 ### 🛡️ Enterprise Fraud Detection System  
-✔ Real-time fraud detection using **ML models**  
-✔ Secure REST APIs with **JWT authentication**  
-✔ Dockerized for **scalable deployment**
+🚀 Built a **real-time fraud detection system** using ML models  
+🔐 Developed secure APIs with **JWT authentication**  
+🐳 Containerized using **Docker for scalable deployment**
 
-🛠️ **Tech Stack:**  
+🛠️ Tech Stack:  
 `Java` `Spring Boot` `Python` `MySQL` `Docker` `JWT`
 
-👉 <a href="#">
-<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
-</a>
+🔗 [View Project](#)
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 💳 Machine Learning-Based Credit Card Fraud Detection  
+🚀 Designed a **classification model** for fraud detection  
+📊 Performed **data preprocessing & feature engineering**  
+📈 Achieved **high accuracy with optimized models**
 
-### 💳 Credit Card Fraud Detection (ML)  
-✔ Built classification model for **fraud detection**  
-✔ Performed **data preprocessing & feature engineering**  
-✔ Achieved **high prediction accuracy**
-
-🛠️ **Tech Stack:**  
+🛠️ Tech Stack:  
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-👉 <a href="#">
-<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
-</a>
+🔗 [View Project](#)
 
-</td>
-
-<td width="50%">
-  
-### 🚧 More Projects Coming Soon  
-✔ Continuously building real-world applications  
-✔ Focus on **AI + Full Stack Development**
-
-</td>
-</tr>
-</table>
----
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
 
 ## 📊 GitHub Analytics
 <p align="center">
