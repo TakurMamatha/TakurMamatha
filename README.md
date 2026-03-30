@@ -30,16 +30,13 @@
 
 ## 🚀 Featured Projects
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=header"/>
-
 ### 🛒 AI-Based E-Commerce Recommendation System  
 🚀 Improved product recommendations by **25% using Machine Learning**  
 💻 Developed a **full-stack web application (React + Node.js)**  
-⚙️ Built **data pipelines using Python & Pandas**
+⚙️ Built **data pipelines using Python & Pandas**  
 
 🛠️ Tech Stack:  
-`React` `Node.js` `JavaScript` `Python` `Machine Learning`
+`React` `Node.js` `JavaScript` `Python` `Machine Learning`  
 
 🔗 [View Project](https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System)
 
@@ -48,10 +45,10 @@
 ### 🛡️ Enterprise Fraud Detection System  
 🚀 Built a **real-time fraud detection system** using ML models  
 🔐 Developed secure APIs with **JWT authentication**  
-🐳 Containerized using **Docker for scalable deployment**
+🐳 Containerized using **Docker for scalable deployment**  
 
 🛠️ Tech Stack:  
-`Java` `Spring Boot` `Python` `MySQL` `Docker` `JWT`
+`Java` `Spring Boot` `Python` `MySQL` `Docker` `JWT`  
 
 🔗 [View Project](#)
 
@@ -60,15 +57,12 @@
 ### 💳 Machine Learning-Based Credit Card Fraud Detection  
 🚀 Designed a **classification model** for fraud detection  
 📊 Performed **data preprocessing & feature engineering**  
-📈 Achieved **high accuracy with optimized models**
+📈 Achieved **high prediction accuracy with optimized models**  
 
 🛠️ Tech Stack:  
-`Python` `Pandas` `NumPy` `Scikit-learn`
+`Python` `Pandas` `NumPy` `Scikit-learn`  
 
 🔗 [View Project](#)
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
 
 ## 📊 GitHub Analytics
 <p align="center">
