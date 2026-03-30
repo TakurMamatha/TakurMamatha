@@ -29,18 +29,68 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
 
-<a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakurMamatha&repo=AI-Based-E-Commerce-Recommendation-System&theme=tokyonight" />
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 AI-Based E-Commerce Recommendation System  
+✔ Improved product recommendations by **25% using ML algorithms**  
+✔ Built full-stack app with **React & Node.js**  
+✔ Implemented **data pipelines using Python & Pandas**
+
+🛠️ **Tech Stack:**  
+`React` `Node.js` `JavaScript` `Python` `Machine Learning`  
+
+👉 <a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
+<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/TakurMamatha/Machine-Learning-Based-Credit-Card-Fraud-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakurMamatha&repo=Machine-Learning-Based-Credit-Card-Fraud-Detection&theme=tokyonight" />
+</td>
+
+<td width="50%">
+
+### 🛡️ Enterprise Fraud Detection System  
+✔ Real-time fraud detection using **ML models**  
+✔ Secure REST APIs with **JWT authentication**  
+✔ Dockerized for **scalable deployment**
+
+🛠️ **Tech Stack:**  
+`Java` `Spring Boot` `Python` `MySQL` `Docker` `JWT`
+
+👉 <a href="#">
+<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+
+### 💳 Credit Card Fraud Detection (ML)  
+✔ Built classification model for **fraud detection**  
+✔ Performed **data preprocessing & feature engineering**  
+✔ Achieved **high prediction accuracy**
+
+🛠️ **Tech Stack:**  
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+👉 <a href="#">
+<img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+  
+### 🚧 More Projects Coming Soon  
+✔ Continuously building real-world applications  
+✔ Focus on **AI + Full Stack Development**
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Analytics
