@@ -75,8 +75,9 @@
 ---
 
 ## 🐍 Contribution Snake (LIVE)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TakurMamatha/TakurMamatha/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/TakurMamatha/TakurMamatha/output/snake.svg" />
 </p>
 
 ---
