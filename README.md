@@ -30,39 +30,68 @@
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=36BCF7&center=true&vCenter=true&width=500&lines=My+Projects;AI+%2B+Full+Stack+Developer;Building+Real+World+Solutions" />
+</p>
+
+---
+
 ### 🛒 AI-Based E-Commerce Recommendation System  
 🚀 Improved product recommendations by **25% using Machine Learning**  
 💻 Developed a **full-stack web application (React + Node.js)**  
-⚙️ Built **data pipelines using Python & Pandas**  
+⚙️ Built **data pipelines using Python & Pandas**
 
 🛠️ Tech Stack:  
-`React` `Node.js` `JavaScript` `Python` `Machine Learning`  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
 
-🔗 [View Project](https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System)
+<p>
+  <a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
+    <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ### 🛡️ Enterprise Fraud Detection System  
 🚀 Built a **real-time fraud detection system** using ML models  
 🔐 Developed secure APIs with **JWT authentication**  
-🐳 Containerized using **Docker for scalable deployment**  
+🐳 Containerized using **Docker for scalable deployment**
 
 🛠️ Tech Stack:  
-`Java` `Spring Boot` `Python` `MySQL` `Docker` `JWT`  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java) 
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-🔗 [View Project](#)
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ### 💳 Machine Learning-Based Credit Card Fraud Detection  
-🚀 Designed a **classification model** for fraud detection  
+🚀 Built a **classification model for fraud detection**  
 📊 Performed **data preprocessing & feature engineering**  
-📈 Achieved **high prediction accuracy with optimized models**  
+📈 Achieved **high prediction accuracy**
 
 🛠️ Tech Stack:  
-`Python` `Pandas` `NumPy` `Scikit-learn`  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) 
+![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
 
-🔗 [View Project](#)
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
