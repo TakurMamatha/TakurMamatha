@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Learner;Building+Real+Projects" />
 </p>
 
 ---
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👩‍💻 About Me
 - 🎓 CSE Student (3rd Year)  
 - 🔭 Working on **AI-Based E-Commerce Recommendation System**  
 - 🌱 Learning **MERN Stack & Machine Learning**  
 - 💬 Skills: Java, Node.js, MongoDB, MySQL  
-- 🎯 Goal: Get placed in a top tech company  
 - 📫 Email: takurmamatha169@gmail.com  
 
 ---
@@ -31,15 +28,15 @@
 <p align="center">
 
 <a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
-  <img src="https://img.shields.io/badge/AI E-Commerce System-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI E-Commerce System-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/TakurMamatha/Machine-Learning-Based-Credit-Card-Fraud-Detection">
-  <img src="https://img.shields.io/badge/Fraud Detection System-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Fraud Detection-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/TakurMamatha/E-Commerce">
-  <img src="https://img.shields.io/badge/Full Stack Shopping Site-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/E-Commerce Website-181717?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -56,10 +53,6 @@
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakurMamatha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakurMamatha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +82,7 @@
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TakurMamatha&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TakurMamatha&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
