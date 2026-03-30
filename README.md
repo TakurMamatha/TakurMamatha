@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
-</p>
-
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
 
 <p align="center">
@@ -12,13 +8,15 @@
 
 ---
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ### 👩‍💻 About Me
 - 🎓 CSE Student (3rd Year)  
 - 🔭 Working on **AI-Based E-Commerce Recommendation System**  
 - 🌱 Learning **MERN Stack & Machine Learning**  
 - 💬 Skills: Java, Node.js, MongoDB, MySQL  
-- 🎯 Goal: Crack top tech placements  
-- 📫 Email: your-email@example.com  
+- 🎯 Goal: Get placed in a top tech company  
+- 📫 Email: takurmamatha169@gmail.com  
 
 ---
 
@@ -30,7 +28,6 @@
 ---
 
 ### 🚀 Featured Projects
-
 <p align="center">
 
 <a href="https://github.com/TakurMamatha/AI-Based-E-Commerce-Recommendation-System">
@@ -51,37 +48,51 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TakurMamatha&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TakurMamatha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakurMamatha&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakurMamatha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakurMamatha&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakurMamatha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+
+<a href="http://www.linkedin.com/in/takur">
+  <img src="https://img.shields.io/badge/LinkedIn-Takur%20Mamatha-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/TakurMamatha">
+  <img src="https://img.shields.io/badge/GitHub-TakurMamatha-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:takurmamatha169@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="tel:+916301597060">
+  <img src="https://img.shields.io/badge/Phone-%2B91%206301597060-green?style=for-the-badge&logo=phone" />
+</a>
+
 </p>
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TakurMamatha&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=TakurMamatha&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
