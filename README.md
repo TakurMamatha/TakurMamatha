@@ -1,24 +1,19 @@
-<!-- 🔷 Animated Banner WITH TEXT (No repetition, professional tagline) -->
+<!-- Minimal Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=AI%20%7C%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20%26%20Intelligent%20Applications&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=AI%20%26%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 👋 Name (ONLY place where your name appears) -->
+<!-- Name -->
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<!-- 🔥 Animated Typing (Dynamic, not repeating role) -->
+<!-- Role + Focus (Single Line, Clean) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Full+Stack+Project+Builder;Open+to+Internships+%26+Opportunities" />
+  AI & Full Stack Developer • Machine Learning Enthusiast • Open to Opportunities
 </p>
 
-<!-- 💡 Identity Line -->
+<!-- Subtle Typing Animation (ONLY value, no repetition) -->
 <p align="center">
-  💡 Problem Solver • 🤖 AI Enthusiast • 🌐 Full Stack Developer
-</p>
-
-<!-- ⚡ Clean Divider Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-3c88b7e0-5c2b-4bcb-9f2a-8c3b3f1e8b3f.gif" width="60%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Building+AI-powered+Applications;Developing+Scalable+Web+Solutions;Passionate+About+Real-World+Projects" />
 </p>
 ---
 
