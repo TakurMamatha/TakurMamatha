@@ -1,17 +1,14 @@
-<!-- 🔷 Animated Gradient Banner (Professional, No Text Repetition) -->
+<!-- 🔷 Animated Gradient Banner WITH TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hi%20👋,%20I'm%20Mamatha&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
-
-<!-- 👋 Name -->
-<h1 align="center">Hi 👋, I'm Mamatha</h1>
 
 <!-- 🚀 Role -->
 <h3 align="center">AI & Full Stack Developer</h3>
 
 <!-- 🔥 Animated Typing (ONLY dynamic content, no repetition) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
 </p>
 
 <!-- 💡 Clean Identity Line -->
@@ -21,9 +18,8 @@
 
 <!-- ⚡ Minimal Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-3c88b7e0-5c2b-4bcb-9f2a-8c3b3f1e8b3f.gif" width="60%" />
+<img src="https://user-images.githubusercontent.com/74038190/216654112-3c88b7e0-5c2b-4bcb-9f2a-8c3b3f1e8b3f.gif" width="60%" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
