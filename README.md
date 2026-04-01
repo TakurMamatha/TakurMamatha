@@ -1,24 +1,27 @@
-<!-- Minimal Professional Banner -->
+<!-- 🔷 Animated Gradient Banner (Professional, No Text Repetition) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=AI%20%26%20Full%20Stack%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&animation=fadeIn" />
 </p>
 
-<!-- Name -->
+<!-- 👋 Name -->
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<!-- Professional Tagline -->
+<!-- 🚀 Role -->
+<h3 align="center">AI & Full Stack Developer</h3>
+
+<!-- 🔥 Animated Typing (ONLY dynamic content, no repetition) -->
 <p align="center">
-  <b>AI & Full Stack Developer</b> focused on building scalable, intelligent web applications
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
 </p>
 
-<!-- Strong Opportunity Line -->
+<!-- 💡 Clean Identity Line -->
 <p align="center">
-  🚀 Actively seeking internship opportunities in AI, Machine Learning & Full Stack Development
+  💡 Problem Solver • 🤖 AI Enthusiast • 🌐 Full Stack Developer
 </p>
 
-<!-- Value Proposition -->
+<!-- ⚡ Minimal Divider -->
 <p align="center">
-  💡 Passionate about solving real-world problems • 🤖 Exploring AI solutions • 🌐 Building end-to-end applications
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-3c88b7e0-5c2b-4bcb-9f2a-8c3b3f1e8b3f.gif" width="60%" />
 </p>
 
 ---
