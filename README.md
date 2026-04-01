@@ -1,9 +1,27 @@
+<!-- 🔷 Animated Gradient Banner (Professional, No Text Repetition) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&animation=fadeIn" />
+</p>
+
+<!-- 👋 Name -->
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
+<!-- 🚀 Role -->
+<h3 align="center">AI & Full Stack Developer</h3>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;Building+Real+World+Projects;Open+to+Opportunities" />
+<!-- 🔥 Animated Typing (ONLY dynamic content, no repetition) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Scalable+Web+Apps;Open+to+Internships+%26+Opportunities" />
+</p>
+
+<!-- 💡 Clean Identity Line -->
+<p align="center">
+  💡 Problem Solver • 🤖 AI Enthusiast • 🌐 Full Stack Developer
+</p>
+
+<!-- ⚡ Minimal Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-3c88b7e0-5c2b-4bcb-9f2a-8c3b3f1e8b3f.gif" width="60%" />
 </p>
 
 ---
