@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mamatha</h1>
 
-<h3 align="center">AI & Full Stack Developer 🚀</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Opportunities" />
+  <b>AI & Full Stack Developer 🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Building+Scalable+Applications;Open+to+Opportunities" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
