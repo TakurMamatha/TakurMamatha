@@ -25,7 +25,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 3rd Year CSE Student  
+- 🎓 4th Year CSE Student  
 - 🔭 Working on **AI-Based E-Commerce Recommendation System**  
 - 🌱 Learning **MERN Stack + Machine Learning**  
 - 💡 Passionate about solving real-world problems  
