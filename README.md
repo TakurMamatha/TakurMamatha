@@ -48,6 +48,40 @@
 
 ---
 
+### 🤖 EngineerOS
+
+🚀 AI-powered engineering workspace that helps developers manage projects, documents, AI agents, and engineering workflows from one platform.
+
+✨ Features:
+- 🔐 JWT Authentication
+- 🤖 AI Agent Integration
+- 💬 AI Chat Workspace
+- 📂 Project & Document Management
+- 🗄️ PostgreSQL Database
+- ⚡ FastAPI Backend
+- 🎨 React + TypeScript Frontend
+- 🔄 LangGraph Workflow Support
+
+🛠️ Tech Stack:
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI-blue?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+
+<p>
+  <a href="https://github.com/TakurMamatha/EngineerOS">
+    <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+---
+
 ### 🛒 AI-Based E-Commerce Recommendation System  
 🚀 Improved product recommendations by **25% using Machine Learning**  
 💻 Developed a **full-stack web application (React + Node.js)**  
