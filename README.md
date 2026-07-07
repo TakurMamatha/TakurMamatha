@@ -80,8 +80,6 @@
 
 ---
 
----
-
 ### 🛒 AI-Based E-Commerce Recommendation System  
 🚀 Improved product recommendations by **25% using Machine Learning**  
 💻 Developed a **full-stack web application (React + Node.js)**  
